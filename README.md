@@ -40,3 +40,14 @@ Then restart Node-RED and deploy a flow containing the node.
 ## License
 
 Apache-2.0
+
+## Published package
+
+- [npm package](https://www.npmjs.com/package/node-red-contrib-taiponrock22)
+- [Node-RED Flow Library](https://flows.nodered.org/node/node-red-contrib-taiponrock22)
+
+Install via npm:
+
+```bash
+npm install node-red-contrib-taiponrock22
+```
